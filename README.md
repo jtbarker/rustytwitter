@@ -1,32 +1,15 @@
-# oauthcli
-![crates.io](https://img.shields.io/crates/v/oauthcli.svg)
+# twitter rust CLI tool
 
-Yet Another OAuth 1.0 Client Library for Rust
+Command line tool for searching twitter
 
 # Features
-- RFC 5849 implementation (without RSA-SHA1)
-- Compatible with Twitter's (f*ckin') implementation
+Command line input
 
 # How to Use
-```rust
-extern crate oauthcli;
-extern crate url;
+clone project
+run cargo run --release "michael jordan"
 
-let header =
-  oauthcli::OAuthAuthorizationHeaderBuilder::new(
-    "POST",
-    url::Url::parse("https://example").unwrap(),
-    "Consumer Key",
-    "Consumer Secret",
-    oauthcli::SignatureMethod::HmacSha1 // or Plaintext
-  )
-  .token("OAuth Token", "OAuth Token Secret")
-  .request_parameters(vec![("status", "hello")].into_iter())
-  .finish();
+returns a json 
 
-assert_eq!(header.to_string(), "OAuth ......")
 ```
 
-# Help me
-`oauthcli` has already reached v1.0.0 although `ring` is not stable.
-What shoud I do for not breaking the compatibility?
