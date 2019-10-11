@@ -1,0 +1,81 @@
+Apple_PubSub_Socket_Render: /private/tmp/com.apple.launchd.GO06oBY2MB/Render
+CARGO: /Users/jonb/.rustup/toolchains/nightly-x86_64-apple-darwin/bin/cargo
+CARGO_CFG_DEBUG_ASSERTIONS: 
+CARGO_CFG_PROC_MACRO: 
+CARGO_CFG_TARGET_ARCH: x86_64
+CARGO_CFG_TARGET_ENDIAN: little
+CARGO_CFG_TARGET_ENV: 
+CARGO_CFG_TARGET_FAMILY: unix
+CARGO_CFG_TARGET_FEATURE: cmpxchg16b,fxsr,mmx,sse,sse2,sse3,ssse3
+CARGO_CFG_TARGET_HAS_ATOMIC: 128,16,32,64,8,cas,ptr
+CARGO_CFG_TARGET_OS: macos
+CARGO_CFG_TARGET_POINTER_WIDTH: 64
+CARGO_CFG_TARGET_THREAD_LOCAL: 
+CARGO_CFG_TARGET_VENDOR: apple
+CARGO_CFG_UNIX: 
+CARGO_HOME: /Users/jonb/.cargo
+CARGO_MAKEFLAGS: --jobserver-fds=3,4 -j --jobserver-auth=3,4 -j
+CARGO_MANIFEST_DIR: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/ring-0.16.9
+CARGO_MANIFEST_LINKS: ring-asm
+CARGO_PKG_AUTHORS: Brian Smith <brian@briansmith.org>
+CARGO_PKG_DESCRIPTION: Safe, fast, small crypto using Rust.
+CARGO_PKG_HOMEPAGE: 
+CARGO_PKG_NAME: ring
+CARGO_PKG_REPOSITORY: https://github.com/briansmith/ring
+CARGO_PKG_VERSION: 0.16.9
+CARGO_PKG_VERSION_MAJOR: 0
+CARGO_PKG_VERSION_MINOR: 16
+CARGO_PKG_VERSION_PATCH: 9
+CARGO_PKG_VERSION_PRE: 
+COLORFGBG: 7;0
+COLORTERM: truecolor
+COMMAND_MODE: unix2003
+DEBUG: false
+DYLD_FALLBACK_LIBRARY_PATH: /Users/jonb/Documents/dvlp/jonrusttwitter/target/release/deps:/Users/jonb/.rustup/toolchains/nightly-x86_64-apple-darwin/lib:/Users/jonb/.rustup/toolchains/nightly-x86_64-apple-darwin/lib:/Users/jonb/lib:/usr/local/lib:/usr/lib
+HOME: /Users/jonb
+HOST: x86_64-apple-darwin
+ITERM_PROFILE: Default
+ITERM_SESSION_ID: w0t0p0:97AFE400-5C19-4317-9156-27473A695256
+LANG: en_US.UTF-8
+LC_TERMINAL: iTerm2
+LC_TERMINAL_VERSION: 3.3.6
+LESS: -R
+LOGNAME: jonb
+LSCOLORS: Gxfxcxdxbxegedabagacad
+NUM_JOBS: 16
+NVM_BIN: /Users/jonb/.nvm/versions/node/v11.0.0/bin
+NVM_CD_FLAGS: -q
+NVM_DIR: /Users/jonb/.nvm
+OLDPWD: /Users/jonb/Documents/dvlp
+OPT_LEVEL: 3
+OUT_DIR: /Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out
+PAGER: less
+PATH: /Users/jonb/.cargo/bin:/Users/jonb/bin:/Users/jonb/.nvm/versions/node/v11.0.0/bin:/Users/jonb/.local/bin:/Users/jonb/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/bin
+PROFILE: release
+PWD: /Users/jonb/Documents/dvlp/jonrusttwitter
+RUSTC: rustc
+RUSTDOC: rustdoc
+RUSTUP_HOME: /Users/jonb/.rustup
+RUSTUP_TOOLCHAIN: nightly-x86_64-apple-darwin
+RUST_RECURSION_COUNT: 1
+SECURITYSESSIONID: 186a8
+SHELL: /bin/zsh
+SHLVL: 1
+SSH_AUTH_SOCK: /private/tmp/com.apple.launchd.iqltz2JK5t/Listeners
+TARGET: x86_64-apple-darwin
+TERM: xterm-256color
+TERM_PROGRAM: iTerm.app
+TERM_PROGRAM_VERSION: 3.3.6
+TERM_SESSION_ID: w0t0p0:97AFE400-5C19-4317-9156-27473A695256
+TMPDIR: /var/folders/pc/9j6v7bjd0s1dkbzl4vfqg6bw0000gn/T/
+USER: jonb
+XPC_FLAGS: 0x0
+XPC_SERVICE_NAME: 0
+ZSH: /Users/jonb/.oh-my-zsh
+_: /Users/jonb/.cargo/bin/cargo
+__CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x0
+running: "ar" "crs" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/libring-core.a" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/aes-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/aesni-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/vpaes-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/x86_64-mont-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/x86_64-mont5-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/chacha-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/p256-x86_64-asm-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/aesni-gcm-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/ghash-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/poly1305-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/sha512-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/sha256-x86_64-macosx.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/generic.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/montgomery.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/montgomery_inv.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/crypto.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/ecp_nistz.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/ecp_nistz256.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/gfp_p256.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/gfp_p384.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/limbs.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/mem.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/gcm.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/curve25519.o" "/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out/cpu-intel.o"
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=/Users/jonb/Documents/dvlp/jonrusttwitter/target/release/build/ring-b3eac4d427d55629/out

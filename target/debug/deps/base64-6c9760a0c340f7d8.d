@@ -1,0 +1,13 @@
+/Users/jonb/Documents/dvlp/rust-oauthcli/target/debug/deps/base64-6c9760a0c340f7d8.rmeta: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/Users/jonb/Documents/dvlp/rust-oauthcli/target/debug/deps/libbase64-6c9760a0c340f7d8.rlib: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/Users/jonb/Documents/dvlp/rust-oauthcli/target/debug/deps/base64-6c9760a0c340f7d8.d: /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs /Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs
+
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/lib.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/chunked_encoder.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/display.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/line_wrap.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/tables.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/encode.rs:
+/Users/jonb/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.9.3/src/decode.rs:
